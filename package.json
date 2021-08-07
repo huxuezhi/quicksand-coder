@@ -1,0 +1,43 @@
+{
+  "name": "@quicksand/coder",
+  "version": "0.0.1-alpha.10",
+  "description": "quicksand项目代码规范",
+  "scripts": {},
+  "files": [
+    "eslints",
+    "tsconfigs",
+    ".editorconfig",
+    ".prettierrc.js"
+  ],
+  "author": {
+    "name": "quicksand",
+    "email": "longzhileixue@vip.qq.com"
+  },
+  "homepage": "https://github.com/huxuezhi/quicksand#readme",
+  "bugs": {
+    "url": "https://github.com/huxuezhi/quicksand/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huxuezhi/quicksand.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.29.0",
+    "@typescript-eslint/parser": "^4.29.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-typescript": "^12.3.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.24.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "prettier": "^2.3.2",
+    "tsconfigs": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.4.13",
+    "typescript": "^4.3.5"
+  }
+}
